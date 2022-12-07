@@ -47,7 +47,7 @@ Añade nombres de usuarios. Puedes Listarlos usando la opción 4:
 
 Añade una lista separadas por comas con los nombres de los usuarios que cumplan con el k "threashold" necesario para pdoer obtener la clave usando la opción 2:
 
-![alt text](https://github.com/ManuelJoseMora/SecretSharingInfinitly/blob/develop/screenshots/captura_a%C3%B1ade_usuarios_desencriptar.JPG)
+![alt text](https://github.com/ManuelJoseMora/SecretSharingInfinitly/blob/develop/screenshots/captura_añade_usuarios_desencriptar.JPG)
 
 Usa la opción 6 para desencriptar la clave:
 
