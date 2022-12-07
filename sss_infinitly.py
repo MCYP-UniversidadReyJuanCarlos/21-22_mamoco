@@ -294,11 +294,11 @@ while (seguimos):
     **************************************************
      Por favor, elige una opción para continuar:\n
      1 - Añadir un nuevo Participante. \n
-     2 - Pasar un lista de participantes para tratar de desencriptar la clave.\n 
+     2 - Pasar un lista de participantes para tratar de reconstruir el secreto.\n
      3 - Finalizar. \n
      4-  Visualizar la lista de Participantes. \n
-     5 - Visualizar la lista de Participantes que desean desencriptar. \n
-     6 - Desencriptar. \n
+     5 - Visualizar la lista de Participantes que desean reconstruir el secreto. \n
+     6 - Reconstruir Secreto. \n
      7 - Visualizar participantes y generaciones. \n
     **************************************************\n""")
 
